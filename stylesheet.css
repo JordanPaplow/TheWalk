@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -11,6 +14,29 @@
     background-color: black;
     background-image:url(../images/background.gif);
     background-repeat: repeat;
-    color:rgb(142, 255, 37);
+    color:rgb(218, 209, 196);
     font-family: 'IBM Plex Mono', monospace;   
+  }
+
+#title{
+  font-family: 'Bebas Neue', cursive;
+  Padding: 10%;
+  text-align: center;
+  font-size: 60pt;
+}
+
+  #textbox{
+
+    padding: 10%;
+    text-align: center;
+  }
+
+  .pics{
+    
+    padding: 5;
+    text-align: center;
+  }
+
+  img{
+    width:90%;
   }
