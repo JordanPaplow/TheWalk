@@ -12,7 +12,6 @@
   
   body{
     background-color: black;
-    background-image:url(../images/background.gif);
     background-repeat: repeat;
     color:rgb(218, 209, 196);
     font-family: 'IBM Plex Mono', monospace;   
